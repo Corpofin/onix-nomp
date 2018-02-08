@@ -1,6 +1,6 @@
 {
-    "name": "Hirocoin",
-    "symbol": "HIRO",
+    "name": "OnixCoin",
+    "symbol": "ONX",
     "algorithm": "x11",
     "mposDiffMultiplier": 256
 }
